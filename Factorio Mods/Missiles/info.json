@@ -1,0 +1,11 @@
+{
+	"name": "MoreMissiles",
+	"version": "0.1.0",
+	"title": "More Missiles",
+	"author": "Telepatheticman",
+	"contact": "",
+	"homepage": "",
+	"factorio_version": "0.15",
+	"dependencies:" ["base >= 0.15"],
+	"description": "This mod adds a variety of tactical and strategic missile based weapons"
+}

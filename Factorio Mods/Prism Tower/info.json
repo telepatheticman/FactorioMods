@@ -1,0 +1,11 @@
+{
+	"name": "PrismTower",
+	"version": "0.1.0",
+	"title": "RA2 Prism Tower",
+	"author": "Telepatheticman",
+	"contact": "",
+	"homepage": "",
+	"factorio_version": "0.15",
+	"dependencies:" ["base >= 0.15"],
+	"description": "Prism Towers from Red Alert 2"
+}
