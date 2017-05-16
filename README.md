@@ -7,3 +7,4 @@ List of mods (more detail in each mod subdirectory)
   -Flags[]
   -Train Tunnels[]
   -More Missiles[]
+  -RA2 Prism Tower[]
